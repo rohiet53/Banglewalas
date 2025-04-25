@@ -208,7 +208,7 @@ export const team = [
     list: "80",
     cover: "../images/customer/team-3.jpg",
     address: "Bhopal",
-    name: "Anna K. Young",
+    name: "Ashish K. Jha",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
       <i class="fa-brands fa-linkedin"></i>,
@@ -220,7 +220,7 @@ export const team = [
     list: "51",
     cover: "../images/customer/team-4.jpg",
     address: "Jabalpur",
-    name: "Michael P. Grimaldo",
+    name: "Anita Patidar",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
       <i class="fa-brands fa-linkedin"></i>,
@@ -232,7 +232,7 @@ export const team = [
     list: "42",
     cover: "../images/customer/team-5.jpg",
     address: "Gwalior",
-    name: "Michael P. Grimaldo",
+    name: "David Fernandez",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
       <i class="fa-brands fa-linkedin"></i>,
@@ -242,9 +242,9 @@ export const team = [
   },
   {
     list: "38",
-    cover: "../images/customer/team-5.jpg",
+    cover: "../images/customer/team-6.jpg",
     address: "Dewas",
-    name: "Adam K. Jollio",
+    name: "Rohan Patel",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
       <i class="fa-brands fa-linkedin"></i>,
