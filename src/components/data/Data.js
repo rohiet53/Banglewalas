@@ -132,58 +132,58 @@ export const awards = [
 export const location = [
   {
     id: 1,
-    name: "New Orleans, Louisiana",
+    name: "Indore",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-1.png",
+    cover: "./images/location/Indore.jpg",
   },
   {
     id: 2,
-    name: "Jerrsy, United State",
+    name: "Bhopal",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-2.png",
+    cover: "./images/location/Bhopal.jpg",
   },
   {
     id: 3,
-    name: "Liverpool, London",
+    name: "Ujjain",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-3.png",
+    cover: "./images/location/Ujjain.jpg",
   },
   {
     id: 4,
-    name: "NewYork, United States",
+    name: "Gwalior",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-4.png",
+    cover: "./images/location/Gwalior.jpg",
   },
   {
     id: 5,
-    name: "Montreal, Canada",
+    name: "Jabalpur",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-5.png",
+    cover: "./images/location/Jabalpur.jpg",
   },
   {
     id: 6,
-    name: "California, USA",
+    name: "Dewas",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-6.png",
+    cover: "./images/location/Dewas.jpg",
   },
 ];
 export const team = [
   {
     list: "50",
     cover: "../images/customer/team-1.jpg",
-    address: "Liverpool, Canada",
+    address: "Indore",
     name: "Sargam S. Singh",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
@@ -195,7 +195,7 @@ export const team = [
   {
     list: "70",
     cover: "../images/customer/team-2.jpg",
-    address: "Montreal, Canada",
+    address: "Ujjain",
     name: "Harijeet M. Siller",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
@@ -207,7 +207,7 @@ export const team = [
   {
     list: "80",
     cover: "../images/customer/team-3.jpg",
-    address: "Denever, USA",
+    address: "Bhopal",
     name: "Anna K. Young",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
@@ -219,7 +219,7 @@ export const team = [
   {
     list: "51",
     cover: "../images/customer/team-4.jpg",
-    address: "2272 Briarwood Drive",
+    address: "Jabalpur",
     name: "Michael P. Grimaldo",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
@@ -231,7 +231,7 @@ export const team = [
   {
     list: "42",
     cover: "../images/customer/team-5.jpg",
-    address: "2272 Briarwood Drive",
+    address: "Gwalior",
     name: "Michael P. Grimaldo",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
@@ -243,7 +243,7 @@ export const team = [
   {
     list: "38",
     cover: "../images/customer/team-5.jpg",
-    address: "Montreal, USA",
+    address: "Dewas",
     name: "Adam K. Jollio",
     icon: [
       <i class="fa-brands fa-facebook-f"></i>,
