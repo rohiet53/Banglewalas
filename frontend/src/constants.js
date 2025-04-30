@@ -1,0 +1,1 @@
+export const fetchPropertyURL = 'http://localhost:5000/api/properties';

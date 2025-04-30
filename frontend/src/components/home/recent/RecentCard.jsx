@@ -1,7 +1,16 @@
-import React from "react"
-import { list } from "../../data/Data"
+import React, { useEffect } from "react"
+import { fetchPropertyURL } from "../../../constants"
 
 const RecentCard = () => {
+  const [list, setList] = React.useState([])
+  const fetchProperties = async () => {
+    const res = await fetch(fetchPropertyURL)
+    const data = await res.json()
+    setList(data)
+  }
+  useEffect(()=> {
+    fetchProperties()
+  },[])
   return (
     <>
       <div className='content grid3 mtop'>

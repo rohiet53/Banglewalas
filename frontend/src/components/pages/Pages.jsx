@@ -8,6 +8,7 @@ import Pricing from "../pricing/Pricing"
 import Blog from "../blog/Blog"
 import Services from "../services/Services"
 import Contact from "../contact/Contact"
+import UploadForm from "../uploadProperty/UploadForm"
 
 const Pages = () => {
   return (
@@ -20,6 +21,7 @@ const Pages = () => {
         <Route path='/blog' element={<Blog />} />
         <Route path='/pricing' element={<Pricing />} />
         <Route path='/contact' element={<Contact />} />
+        <Route path='/upload' element={< UploadForm/>} />
       </Routes>
       <Footer />
     </Router>

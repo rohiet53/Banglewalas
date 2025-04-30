@@ -23,6 +23,10 @@ export const nav = [
     text: "contact",
     path: "/contact",
   },
+  {
+    text: "Upload Property",
+    path:  "/upload",
+  }
 ];
 export const featured = [
   {
